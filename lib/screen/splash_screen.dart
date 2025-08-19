@@ -38,7 +38,7 @@ class _SplashScreenState extends State<SplashScreen> {
               height: 5,
             ),
             Text(
-              "Chat Bot",
+              "Snoopy Bot",
               style: mTextStyle25(
                   fontWeight: FontWeight.bold, fontColor: Colors.orange),
             )

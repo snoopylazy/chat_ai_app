@@ -19,7 +19,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
       appBar: AppBar(
         title: Text.rich(
           TextSpan(
-            text: "Chat",
+            text: "Snoopy",
             style: mTextStyle25(fontColor: Colors.white),
             children: [
               TextSpan(

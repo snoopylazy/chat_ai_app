@@ -46,7 +46,7 @@ class _ChatScreenState extends State<ChatScreen> {
             Image.asset("assets/icon/robot.png", height: 30),
             Text.rich(
               TextSpan(
-                text: "Chat",
+                text: "Snoopy",
                 style: mTextStyle25(fontColor: Colors.white),
                 children: [
                   TextSpan(
