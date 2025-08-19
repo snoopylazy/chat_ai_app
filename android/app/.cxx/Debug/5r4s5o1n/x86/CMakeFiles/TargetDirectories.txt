@@ -1,0 +1,2 @@
+C:/FLUTTER PROJECT/FLUTTER COURSE/chat_bot_app/android/app/.cxx/Debug/5r4s5o1n/x86/CMakeFiles/edit_cache.dir
+C:/FLUTTER PROJECT/FLUTTER COURSE/chat_bot_app/android/app/.cxx/Debug/5r4s5o1n/x86/CMakeFiles/rebuild_cache.dir
